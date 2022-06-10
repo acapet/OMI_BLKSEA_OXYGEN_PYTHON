@@ -1,0 +1,14 @@
+name: OMI-BLKSEA-OXYGEN
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - nb_conda
+  - ipykernel
+  - pandas
+  - netCDF4
+  - scipy
+  - xarray
+  - gsw
+  - wget
